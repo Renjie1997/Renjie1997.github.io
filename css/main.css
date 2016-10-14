@@ -924,7 +924,7 @@ pre .javascript .function {
 .site-subtitle {
   margin-top: 10px;
   font-size: 13px;
-  color: #ddd;
+  color: #222;
 }
 .use-motion .brand {
   opacity: 0;
@@ -1488,7 +1488,7 @@ pre .javascript .function {
   margin-top: 0;
   text-align: center;
   font-size: 13px;
-  color: #999;
+  color: #222;
 }
 .site-state {
   overflow: hidden;
@@ -1516,7 +1516,7 @@ pre .javascript .function {
 }
 .site-state-item-name {
   font-size: 13px;
-  color: #999;
+  color: #222;
 }
 .feed-link {
   margin-top: 20px;
@@ -1558,7 +1558,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d071ff;
+  background: #2400fe;
 }
 .links-of-blogroll {
   font-size: 13px;
