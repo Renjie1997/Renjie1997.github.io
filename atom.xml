@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jiangrenjie.top/"/>
-  <updated>2016-10-14T06:40:02.000Z</updated>
+  <updated>2016-10-14T09:20:38.000Z</updated>
   <id>http://jiangrenjie.top/</id>
   
   <author>
@@ -16,27 +16,62 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>关于搭建hexo博客</title>
-    <link href="http://jiangrenjie.top/2016/10/14/%E5%85%B3%E4%BA%8E%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://jiangrenjie.top/2016/10/14/关于搭建hexo博客/</id>
+    <title>浅谈用“hexo”搭建一个个人博客</title>
+    <link href="http://jiangrenjie.top/2016/10/14/%E6%B5%85%E8%B0%88%E7%94%A8%E2%80%9Chexo%E2%80%9D%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://jiangrenjie.top/2016/10/14/浅谈用“hexo”搭建一个个人博客/</id>
     <published>2016-10-14T06:40:02.000Z</published>
-    <updated>2016-10-14T06:40:02.000Z</updated>
+    <updated>2016-10-14T09:20:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>这是这里的第一篇博客，严格的来说，并不会是一个技术的博客，简答的来谈一谈自己建一个博客的缘由，以及其中的过程，还有一些感受吧。</p>
+</blockquote>
+<hr>
+<p>&nbsp;</p>
+<p>##为什么想写博客<br>&nbsp;<br>在学习代码的时候，浏览网页，就看到了一篇非常邦德博客，就是一个程序员大神的博客:  <a href="http://www.cppblog.com/vczh" target="_blank" rel="external">vczh的博客</a>.       当时就萌发了自己一定建立一个博客的期望，主要呢有这几点原因吧。</p>
+<ol>
+<li><p>能够督促自己不断的学习。</p>
+</li>
+<li><p>记录下来，否则真的很容易忘记。</p>
+</li>
+<li><p>给自己一个在闲暇时间忙碌起来的理由。<br>&nbsp;</p>
+</li>
+</ol>
+<hr>
+<p>##简历博客的过程</p>
+<p>&nbsp;</p>
+<blockquote>
+<p>后来才发现有些事情尝试起来虽然有些疲惫，可是其中的乐趣还是有的。例如有了属于自己的一个博客。                 </p>
+</blockquote>
+<p>&nbsp;<br>因为真的是一个计算机菜鸟，所以在搭建的过程中就出了不少问题。不过其实出现的问题多一点倒不是什么严重的问题，毕竟最后一点点解决的过程才是最重要的。<strong>下面就说一下遇到了那些问题吧</strong><br>&nbsp;</p>
+<ul>
+<li><p>npm安装hexo文件失败了无数次。</p>
+<blockquote>
+<p>同时呢，也尝试了无数次。最后才发现是因为之前已经安装过了的文件，而安装错了地址。<strong>所以一定要记住，在安装的过程中，一定要cd到相关文件下</strong></p>
+</blockquote>
+</li>
+<li><p>RSS文件安装失败。</p>
+<blockquote>
+<p>这个是在博客已经搭建完成之后出现的问题，也是困扰了我很久。具体的情况就是虽然可以在页面显示RSS的标签，可是点进去确实一个404的界面。后来我在hexo的github找到了那个”hexo-generate-feed”的文件，按照里面的步骤重新操作了一遍。同时我的主题是next的主题，所以也要把next的官方文档对照着看一遍，相关问题也就能够解决了。</p>
+</blockquote>
+</li>
+</ul>
+<p>&nbsp;</p>
+<hr>
+<p>##最后的感受<br>&nbsp;<br>其实感受的话，就是一句hello world可以概括的吧。每当学习一个新的语言的时候，总会有一句hello world,网上有人说这个就像是一个新生的孩童第一次见到世界的好奇与惊喜。所以这大致也可以概括出来我的心情了吧。</p>
+<p>&nbsp;</p>
+<blockquote>
+<p>最后，感谢hexo，还有感谢next主题的作者，正式你们的无私，把这些好的工具开源出来，才促使了我们不断的前进。</p>
+</blockquote>
+]]></content>
     
     <summary type="html">
     
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>搭建博客心得</title>
-    <link href="http://jiangrenjie.top/2016/10/14/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%BF%83%E5%BE%97/"/>
-    <id>http://jiangrenjie.top/2016/10/14/搭建博客心得/</id>
-    <published>2016-10-14T05:53:25.000Z</published>
-    <updated>2016-10-14T05:53:25.000Z</updated>
-    
-    <summary type="html">
+      &lt;blockquote&gt;
+&lt;p&gt;这是这里的第一篇博客，严格的来说，并不会是一个技术的博客，简答的来谈一谈自己建一个博客的缘由，以及其中的过程，还有一些感受吧。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;##为什么想写博客&lt;br&gt;&amp;nbsp;&lt;
     
     </summary>
     
