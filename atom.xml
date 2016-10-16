@@ -4,9 +4,9 @@
   <subtitle>blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://jiangrenjie.top/"/>
+  <link href="https://Renjie1997.github.io/"/>
   <updated>2016-10-16T10:58:56.000Z</updated>
-  <id>http://jiangrenjie.top/</id>
+  <id>https://Renjie1997.github.io/</id>
   
   <author>
     <name>江人杰</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>浅谈用“hexo”搭建一个个人博客</title>
-    <link href="http://jiangrenjie.top/2016/10/14/%E6%B5%85%E8%B0%88%E7%94%A8%E2%80%9Chexo%E2%80%9D%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://jiangrenjie.top/2016/10/14/浅谈用“hexo”搭建一个个人博客/</id>
+    <link href="https://Renjie1997.github.io/2016/10/14/%E6%B5%85%E8%B0%88%E7%94%A8%E2%80%9Chexo%E2%80%9D%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://Renjie1997.github.io/2016/10/14/浅谈用“hexo”搭建一个个人博客/</id>
     <published>2016-10-14T06:40:02.000Z</published>
     <updated>2016-10-16T10:58:56.000Z</updated>
     
@@ -89,17 +89,17 @@
     
     </summary>
     
-      <category term="闲谈" scheme="http://jiangrenjie.top/categories/%E9%97%B2%E8%B0%88/"/>
+      <category term="闲谈" scheme="https://Renjie1997.github.io/categories/%E9%97%B2%E8%B0%88/"/>
     
     
-      <category term="hexo" scheme="http://jiangrenjie.top/tags/hexo/"/>
+      <category term="hexo" scheme="https://Renjie1997.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://jiangrenjie.top/2016/10/09/hello-world/"/>
-    <id>http://jiangrenjie.top/2016/10/09/hello-world/</id>
+    <link href="https://Renjie1997.github.io/2016/10/09/hello-world/"/>
+    <id>https://Renjie1997.github.io/2016/10/09/hello-world/</id>
     <published>2016-10-08T16:00:00.000Z</published>
     <updated>2016-10-15T07:50:57.000Z</updated>
     
