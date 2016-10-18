@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: "PingFang SC”，”Microsoft YaHei", Verdana, sans-serif;
+  font-family: 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 14px;
   line-height: 2;
   color: #555;
@@ -216,7 +216,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: Georgia, sans;
+  font-family: 'Roboto Slab', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h2,
 h3,
@@ -496,14 +496,14 @@ pre,
   overflow: auto;
   margin: 20px 0;
   padding: 15px;
-  font-size: 14px;
+  font-size: 13px;
   color: #eaeaea;
   background: #000;
   line-height: 1.6;
 }
 pre,
 code {
-  font-family: "Input Mono", "PT Mono", Consolas, Monaco, Menlo, monospace;
+  font-family: 'PT Mono', consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
 }
 code {
   padding: 2px 4px;
@@ -511,7 +511,7 @@ code {
   color: #eaeaea;
   background: #000;
   border-radius: 3px;
-  font-size: 14px;
+  font-size: 13px;
 }
 pre code {
   padding: 0;
@@ -1558,7 +1558,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff3765;
+  background: #ffde63;
 }
 .links-of-blogroll {
   font-size: 13px;
