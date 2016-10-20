@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Renjie1997.github.io/"/>
-  <updated>2016-10-20T15:34:15.000Z</updated>
+  <updated>2016-10-20T15:43:36.000Z</updated>
   <id>https://Renjie1997.github.io/</id>
   
   <author>
@@ -16,34 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>a test</title>
-    <link href="https://Renjie1997.github.io/2016/10/20/a-test/"/>
-    <id>https://Renjie1997.github.io/2016/10/20/a-test/</id>
-    <published>2016-10-20T14:38:13.000Z</published>
-    <updated>2016-10-20T15:34:15.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>it is just a test</strong></p>
-<p><code>i do not know wheather this signiture is can be used</code></p>
-<p><code>it can be used like Template render error:</code></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;it is just a test&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;i do not know wheather this signiture is can be used&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;it can be used l
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>hexo遇到的问题及解决办法</title>
     <link href="https://Renjie1997.github.io/2016/10/20/hexo%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/"/>
     <id>https://Renjie1997.github.io/2016/10/20/hexo遇到的问题及解决办法/</id>
     <published>2016-10-20T14:37:24.000Z</published>
-    <updated>2016-10-20T15:42:28.000Z</updated>
+    <updated>2016-10-20T15:43:36.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>之前就写过一些在hexo中的next主题中遇到的问题，在这里在进行完善一下，以后所有的问题都在这里汇集，以方便记录和查看。</p>
@@ -79,6 +56,10 @@
     
     </summary>
     
+      <category term="问题小记" scheme="https://Renjie1997.github.io/categories/%E9%97%AE%E9%A2%98%E5%B0%8F%E8%AE%B0/"/>
+    
+    
+      <category term="-hexo" scheme="https://Renjie1997.github.io/tags/hexo/"/>
     
   </entry>
   
