@@ -24,13 +24,12 @@
 <h2 id="一：站点标题的修改"><a href="#一：站点标题的修改" class="headerlink" title="一：站点标题的修改"></a>一：站点标题的修改</h2><p>&nbsp;</p>
 <p><strong>这个标题的修改需要在：/hexo/themes/next/layout/index.swing 这个文件中进行。</strong></p>
 <p>   找到这一行，我们可以看到原来是这样的。</p>
-  
+<p><code>  </code></p>
 <p>那么关键的地方就在于中间的那一个</p>
 <p>1.比如说你的title是“blog”,你想改成“my blog”,可是又不想在站点文件里面进行修改，那么就必须在这文件里修改了。</p>
-<p>而修改很简单，只要加入“my”即可，如下：</p>
-<p> my  </p>
-<p> 2.比如说你想要你的title再加上别的元素，那么只需要这样：</p>
- - 
+<p>而修改很简单，只要在加入“my”即可，如下：</p>
+<p>2.比如说你想要你的title再加上别的元素，那么只需要这样：</p>
+<p><code>{ % block title % }  -  { % endblock % }</code></p>
 <p>   当然这个连词符号“-”你可要可不要。</p>
 <p> &nbsp;</p>
 <h2 id="二-主题文件出现问题"><a href="#二-主题文件出现问题" class="headerlink" title="二.主题文件出现问题"></a>二.主题文件出现问题</h2><p>&nbsp;</p>
