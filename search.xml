@@ -26,9 +26,10 @@
 <pre><code>{% block title %} {{ config.title }} {% endblock %}
 </code></pre><p>那么关键的地方就在于中间的那一个</p>
 <p>1.比如说你的title是“blog”,你想改成“my blog”,可是又不想在站点文件里面进行修改，那么就必须在这文件里修改了。</p>
-<p>而修改很简单，只要在加入“my”即可，如下：</p>
+<p>而修改很简单，只要在加入“my”即可</p>
 <p>2.比如说你想要你的title再加上别的元素，那么只需要这样：</p>
-<p>   当然这个连词符号“-”你可要可不要。</p>
+<pre><code>{ % block title % } {{ config.title }} - {{ theme.description }} { % endblock % }
+</code></pre><p>   当然这个连词符号“-”你可要可不要。</p>
 <p> &nbsp;</p>
 <h2 id="二-主题文件出现问题"><a href="#二-主题文件出现问题" class="headerlink" title="二.主题文件出现问题"></a>二.主题文件出现问题</h2><p>&nbsp;</p>
 <p><strong>就在不久之前,还出了点小问题，系统显示主题配置文件除了问题。这时候说集中办法吧。</strong></p>
