@@ -110,7 +110,7 @@
 <meta property="og:url" content="https://Renjie1997.github.io/2016/10/20/hexo遇到的问题及解决办法/index.html">
 <meta property="og:site_name" content="江人杰">
 <meta property="og:description" content="之前就写过一些在hexo中的next主题中遇到的问题，在这里在进行完善一下，以后所有的问题都在这里汇集，以方便记录和查看。">
-<meta property="og:updated_time" content="2016-10-20T15:28:30.000Z">
+<meta property="og:updated_time" content="2016-10-20T15:37:17.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="hexo遇到的问题及解决办法">
 <meta name="twitter:description" content="之前就写过一些在hexo中的next主题中遇到的问题，在这里在进行完善一下，以后所有的问题都在这里汇集，以方便记录和查看。">
@@ -364,12 +364,11 @@
 <h2 id="一：站点标题的修改"><a href="#一：站点标题的修改" class="headerlink" title="一：站点标题的修改"></a>一：站点标题的修改</h2><p>&nbsp;</p>
 <p><strong>这个标题的修改需要在：/hexo/themes/next/layout/index.swing 这个文件中进行。</strong></p>
 <p>   找到这一行，我们可以看到原来是这样的。</p>
-  
-<p>那么关键的地方就在于中间的那一个</p>
+<pre><code>{% block title %} {{ config.title }} {% endblock %}
+</code></pre><p>那么关键的地方就在于中间的那一个</p>
 <p>1.比如说你的title是“blog”,你想改成“my blog”,可是又不想在站点文件里面进行修改，那么就必须在这文件里修改了。</p>
 <p>而修改很简单，只要在加入“my”即可，如下：</p>
 <p>2.比如说你想要你的title再加上别的元素，那么只需要这样：</p>
-<p>{ % block title % }  -  { % endblock % } </p>
 <p>   当然这个连词符号“-”你可要可不要。</p>
 <p> &nbsp;</p>
 <h2 id="二-主题文件出现问题"><a href="#二-主题文件出现问题" class="headerlink" title="二.主题文件出现问题"></a>二.主题文件出现问题</h2><p>&nbsp;</p>
