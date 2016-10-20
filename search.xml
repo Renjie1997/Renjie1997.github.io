@@ -25,14 +25,17 @@
 <p>   找到这一行，我们可以看到原来是这样的。</p>
 <pre><code>{% block title %} {{ config.title }} {% endblock %}
 
+
 那么关键的地方就在于中间的那一个
+
 
 1. 比如说你的title是“blog”,你想改成“my blog”,可是又不想在站点文件里面进行修改，那么就必须在这文件里修改了。
 
     而修改很简单，只要加入“my”即可，如下：
     
+    
 
-       {% block title %} my  {{ config.title }} {% endblock %}
+         {% block title %} my  {{ config.title }} {% endblock %}
 </code></pre><ol>
 <li>比如说你想要你的title再加上别的元素，那么只需要这样：</li>
 </ol>

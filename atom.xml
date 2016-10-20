@@ -43,7 +43,7 @@
     <link href="https://Renjie1997.github.io/2016/10/20/hexo%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/"/>
     <id>https://Renjie1997.github.io/2016/10/20/hexo遇到的问题及解决办法/</id>
     <published>2016-10-20T14:37:24.000Z</published>
-    <updated>2016-10-20T14:50:50.000Z</updated>
+    <updated>2016-10-20T15:02:50.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>之前就写过一些在hexo中的next主题中遇到的问题，在这里在进行完善一下，以后所有的问题都在这里汇集，以方便记录和查看。</p>
@@ -55,14 +55,17 @@
 <p>   找到这一行，我们可以看到原来是这样的。</p>
 <pre><code>{% block title %} {{ config.title }} {% endblock %}
 
+
 那么关键的地方就在于中间的那一个
+
 
 1. 比如说你的title是“blog”,你想改成“my blog”,可是又不想在站点文件里面进行修改，那么就必须在这文件里修改了。
 
     而修改很简单，只要加入“my”即可，如下：
     
+    
 
-       {% block title %} my  {{ config.title }} {% endblock %}
+         {% block title %} my  {{ config.title }} {% endblock %}
 </code></pre><ol>
 <li>比如说你想要你的title再加上别的元素，那么只需要这样：</li>
 </ol>
