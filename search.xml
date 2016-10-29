@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[C语言内嵌汇编的一个小程序]]></title>
-      <url>https://Renjie1997.github.io/2016/10/30/x/</url>
+      <url>https://Renjie1997.github.io/2016/10/30/C%E8%AF%AD%E8%A8%80%E5%86%85%E5%B5%8C%E6%B1%87%E7%BC%96%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</url>
       <content type="html"><![CDATA[<blockquote>
 <p>在deadline的强烈催促下，终于赶出来了汇编的第一个小程序，这里记录一下这个程序，并且会对这个程序提出一些想法和相关的改进。</p>
 </blockquote>
