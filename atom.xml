@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Renjie1997.github.io/"/>
-  <updated>2016-10-20T15:43:36.000Z</updated>
+  <updated>2016-10-29T19:26:39.000Z</updated>
   <id>https://Renjie1997.github.io/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C语言内嵌汇编的一个小程序</title>
+    <link href="https://Renjie1997.github.io/2016/10/30/x/"/>
+    <id>https://Renjie1997.github.io/2016/10/30/x/</id>
+    <published>2016-10-29T19:23:53.000Z</published>
+    <updated>2016-10-29T19:26:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>在deadline的强烈催促下，终于赶出来了汇编的第一个小程序，这里记录一下这个程序，并且会对这个程序提出一些想法和相关的改进。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;在deadline的强烈催促下，终于赶出来了汇编的第一个小程序，这里记录一下这个程序，并且会对这个程序提出一些想法和相关的改进。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="代码小记" scheme="https://Renjie1997.github.io/categories/%E4%BB%A3%E7%A0%81%E5%B0%8F%E8%AE%B0/"/>
+    
+    
+      <category term="汇编" scheme="https://Renjie1997.github.io/tags/%E6%B1%87%E7%BC%96/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo遇到的问题及解决办法</title>
